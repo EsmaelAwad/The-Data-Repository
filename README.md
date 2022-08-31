@@ -5,3 +5,4 @@ This repository follows a general rule:
   2.All of the results are in a folder called (results)
     a.Each project's codes has it's own folder in the (codes) folder
     b.Each project's results has it's own folder in the (results) folder
+    c.Each project has it's own README.txt file that explains the Details of the project.
