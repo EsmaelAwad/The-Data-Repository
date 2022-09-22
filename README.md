@@ -1,4 +1,4 @@
-# The-Data-Repository
+# The-Data-Repository-Python
 In This repository I'll be listing all of my data related projects.
 This repository follows a general rule:
   1.All projects codes are in a folder called (codes)
